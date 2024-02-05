@@ -30,3 +30,19 @@ h1 {
 .sottolineatura {
     background-color: yellow;
 }
+
+table {
+    width: 100%;
+}
+
+td {
+    width: 33%;
+}
+.bluscuro {
+    color: white;
+    background-color: rgb(0, 102, 255);
+}
+
+.bluchiaro {
+    background-color: rgb(0, 255, 255);
+}
